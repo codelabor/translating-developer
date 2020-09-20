@@ -104,6 +104,13 @@ picture {
   margin: 0;
   max-width: 100%; }
 
+img.cover {
+  width: 100px;
+  border: 1px solid lightgray;
+  float: left;
+  margin-right: 20px;
+}
+
 html {
   box-sizing: border-box; }
 

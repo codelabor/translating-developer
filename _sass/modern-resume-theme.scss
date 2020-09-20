@@ -85,7 +85,7 @@
 
     a {
       color: inherit;
-      font-style: italic;
+      # font-style: italic;
       font-weight: 300;
     }
 
@@ -99,7 +99,7 @@
 
     h4 {
       margin-bottom: 0.1rem;
-      font-weight: 500;
+      font-weight: bold;
 
       @media print {
         margin-bottom: 0.2rem;
