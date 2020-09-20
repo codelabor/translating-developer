@@ -1,9 +1,17 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Project ZZOM
+  link: https://zzom.io
+  github: https://github.com/project-zzom
   quote: >
-    Short overview of the project (optional)
+    '앱을 만들 듯 책도 만들 수 있지 않을까?'란 생각으로 시작한 1인출판 프로젝트
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+
+# 소프트웨어 엔지니어링 기법을 책 제작 공정에 접목하여 '앱' 대신 '책'을 만드는 실험 프로젝트이다.
+
+# - Waterfall 방식의 제작(개발) 프로세스
+# - 부분적으로 Agile 프렉티스 시범 적용    
+# - 이해관계자간 커뮤니케이션 방법 다변화
+# - 책 제작 툴 체인 최적화
+# - 책 제작 프로세스 개선 및 방법론 테일러링
+# - 재사용 자산(템플릿, 스케폴드) 확보

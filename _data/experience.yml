@@ -1,10 +1,100 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  name: 사고법 도감
+  link: https://bit.ly/33KIYwH
+  publisher:  로드북
+  dates: 2020-08-13
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+    문제 해결, 아이디어 발상력을 높여주는 60가지 사고법
+  description: |
+
+- layout: left
+  name: 딥러닝을 위한 수학
+  link: https://bit.ly/3hKDaYX
+  publisher:  위키북스
+  dates: 2020-03-27
+  quote: >
+    인공지능의 핵심 원리를 이해하고 파이썬으로 구현 
+  description: |
+    
+- layout: left
+  name: 비즈니스 프레임워크 도감
+  link: https://bit.ly/3ktis1u
+  publisher:  로드북
+  dates: 2020-02-05일
+  quote: > 
+    문제 해결.아이디어 도출을 위한 70가지 도구
+  description: | 
+
+- layout: left
+  name: 인공지능을 위한 수학
+  link: https://bit.ly/2Eiph6R
+  publisher:  프리렉
+  dates: 2018-11-22
+  quote: > 
+    꼭 필요한 것만 골라 배우는 인공지능 맞춤 수학
+  description: | 
+ 
+- layout: left
+  name: 1억배 빠른 양자 컴퓨터가 온다
+  link: https://bit.ly/2ZVuE3g8
+  publisher:  로드북
+  dates: 2018-04-16
+  quote: > 
+    인공지능의 미래를 결정할 양자 컴퓨터 이야기
+  description: | 
+ 
+- layout: left
+  name: 스프링 철저 입문
+  link: https://bit.ly/3iQJMGA/
+  publisher:  위키북스
+  dates: 2018-03-15
+  quote: > 
+    처음부터 끝까지 철저하게 배우는 실무 중심의 스프링 프레임워크 완벽 입문서
+  description: | 
+ 
+- layout: left
+  name: 클라우드 인프라와 API의 구조
+  link: https://bit.ly/3iQQnRt6
+  publisher:  로드북
+  dates: 2017-05-23
+  quote: > 
+    인프라 엔지니어라면 특정 클라우드 인프라이에 종속되지 말자 
+  description: | 
+ 
+- layout: left
+  name: TCP/IP 쉽게, 더 쉽게
+  link: https://bit.ly/2RJP3UE9
+  publisher:  위키북스
+  dates: 2016-09-21
+  quote: > 
+    네트워크 학습자를 위한 최적의, 최고의 입문서
+  description: | 
+ 
+- layout: left
+  name: 네트워크 엔지니어의 교과서
+  link: https://bit.ly/33MAmFJ1
+  publisher:  로드북
+  dates: 2016-08-19
+  quote: > 
+    네트워크는 무엇인가라는 질문에 가장 기본이 되는 해답들을 제시
+  description: | 
+ 
+- layout: left
+  name: XCODE로 배우는 코코아 프로그래밍
+  link: https://bit.ly/3cgMAud7
+  publisher:  한빛미디어
+  dates: 2010-09-14
+  quote: > 
+    실용적인 예제 중심으로 익히는 코코아 프로그래밍
+  description: | 
+ 
+- layout: left
+  name: OBJECTIVE C
+  link: https://bit.ly/2ZV0RYx2
+  publisher:  한빛미디어
+  dates: 2009-07-15
+  quote: > 
+    완벽하게 실행되도록 구성한 코드로 더욱 쉬워진 예제 실습과 활용
+  description: | 
+ 

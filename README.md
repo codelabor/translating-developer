@@ -77,7 +77,7 @@ A list of all your experience, each experience will follow this format
 - layout: left (options: left, right, top, top-right, top-middle)
   company: Company name
   link: Link to company (eg. https://google.com)(optional)
-  job_title: Job title
+  publisher: Job title
   dates: Date Range (eg. November 2016 - present)
   quote: >
    Short description of the company (optional)
