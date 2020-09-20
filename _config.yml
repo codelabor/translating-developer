@@ -46,7 +46,11 @@ youtube_username: c/번역하는개발자
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  <mark>소프트웨어 아키텍트</mark> 겸 IT 기술서 <mark>번역자</mark>로 십여권의 책을 번역하다가 문득 '책을 만들고 싶다'는 생각에 1인출판 프로젝트 <mark>ZZOM</mark>을 시작했다.
+  <mark>소프트웨어 아키텍트</mark> / <mark>IT 기술서 번역자</mark> / <mark>1인출판사 ZZOM 최고잡무책임자</mark>
+
+  십여권의 IT 기술서와 사회과학책을 번역했다. 
+  
+  어느 날 문득 '책을 만들고 싶다'는 생각이 들어 1인출판 프로젝트 <mark>ZZOM</mark>을 시작했다.
 
 
 # 소프트웨어 아키텍트로 기업 정보 시스템을 구축하다 우연한 계기로 기술서 번역을 시작했다. 
