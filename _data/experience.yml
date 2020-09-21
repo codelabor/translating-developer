@@ -1,6 +1,6 @@
 # Experience template
 - layout: left
-  cover: assets/images/cover/11.jpg
+  cover: assets/images/cover-translated/11.jpg
   name: 사고법 도감
   link: https://bit.ly/33KIYwH
   publisher:  로드북
@@ -10,7 +10,7 @@
   description: |
 
 - layout: left
-  cover: assets/images/cover/10.jpg
+  cover: assets/images/cover-translated/10.jpg
   name: 딥러닝을 위한 수학
   link: https://bit.ly/3hKDaYX
   publisher:  위키북스
@@ -20,7 +20,7 @@
   description: |
     
 - layout: left
-  cover: assets/images/cover/9.jpg
+  cover: assets/images/cover-translated/9.jpg
   name: 비즈니스 프레임워크 도감
   link: https://bit.ly/3ktis1u
   publisher:  로드북
@@ -30,7 +30,7 @@
   description: | 
 
 - layout: left
-  cover: assets/images/cover/8.jpg
+  cover: assets/images/cover-translated/8.jpg
   name: 인공지능을 위한 수학
   link: https://bit.ly/2Eiph6R
   publisher:  프리렉
@@ -40,7 +40,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/7.jpg
+  cover: assets/images/cover-translated/7.jpg
   name: 1억배 빠른 양자 컴퓨터가 온다
   link: https://bit.ly/2ZVuE3g
   publisher:  로드북
@@ -50,7 +50,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/6.jpg
+  cover: assets/images/cover-translated/6.jpg
   name: 스프링 철저 입문
   link: https://bit.ly/3iQJMGA
   publisher:  위키북스
@@ -60,7 +60,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/5.jpg
+  cover: assets/images/cover-translated/5.jpg
   name: 클라우드 인프라와 API의 구조
   link: https://bit.ly/3iQQnRt
   publisher:  로드북
@@ -70,7 +70,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/4.jpg
+  cover: assets/images/cover-translated/4.jpg
   name: TCP/IP 쉽게, 더 쉽게
   link: https://bit.ly/2RJP3UE
   publisher:  위키북스
@@ -80,7 +80,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/3.jpg
+  cover: assets/images/cover-translated/3.jpg
   name: 네트워크 엔지니어의 교과서
   link: https://bit.ly/33MAmFJ1
   publisher:  로드북
@@ -90,7 +90,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/2.jpg
+  cover: assets/images/cover-translated/2.jpg
   name: XCODE로 배우는 코코아 프로그래밍
   link: https://bit.ly/3cgMAud
   publisher:  한빛미디어
@@ -100,7 +100,7 @@
   description: | 
  
 - layout: left
-  cover: assets/images/cover/1.jpg
+  cover: assets/images/cover-translated/1.jpg
   name: OBJECTIVE C
   link: https://bit.ly/2ZV0RYx
   publisher:  한빛미디어
