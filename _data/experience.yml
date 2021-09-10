@@ -1,4 +1,39 @@
 # Experience template
+
+- layout: left
+  original:
+    cover: assets/images/cover-original/13.jpg
+    name: SCRUM BOOT CAMP THE BOOK
+    link: https://www.amazon.co.jp/dp/4798163686/
+    publisher: 翔泳社
+    dates: 2020/05/20  
+  translated:
+    cover: assets/images/cover-translated/13.jpg
+    name: 출근했더니 스크럼 마스터가 된 건에 관하여
+    link: 
+    publisher: ZZOM
+    dates: 2021년말 ~ 2022년초 출간 예정
+    quote: >
+      스크럼 초심자를 위한 완전 공감 입문서, 좌충우돌 성장 스토리
+    description: |
+
+- layout: left
+  original:
+    cover: assets/images/cover-original/12.jpg
+    name: はじめてのグラフィックレコーディング
+    link: https://www.amazon.co.jp/dp/4798164887/
+    publisher: 翔泳社
+    dates: 2020/08/26  
+  translated:
+    cover: assets/images/cover-translated/12.jpg
+    name: 처음 배우는 그래픽 레코딩
+    link: https://zzom.io/graphic-recording/
+    publisher: ZZOM
+    dates: 2021/10/09
+    quote: >
+      비주얼 씽킹으로 이야기를 기록하는 방법
+    description: |
+
 - layout: left
   original:
     cover: assets/images/cover-original/11.jpg
