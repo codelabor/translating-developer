@@ -2,6 +2,23 @@
 
 - layout: left
   original:
+    cover: assets/images/cover-original/14.jpg
+    name: 魔王とはじめる!iPadキャライラスト
+    link: https://www.amazon.co.jp/dp/4046060700
+    publisher: KADOKAWA
+    dates: 2023/07/04  
+  translated:
+    cover: assets/images/cover-translated/14.jpg
+    name: 캐릭터 일러스트 강좌 with 프로크리에이트
+    link: https://zzom.io/character-illustration-with-procreate/
+    publisher: ZZOM
+    dates: 2024/12/27
+    quote: >
+      마왕 딥 블리자드가 알려주는 쉽고 빠르게 디지털 페인팅 입문
+    description: |
+
+- layout: left
+  original:
     cover: assets/images/cover-original/13.jpg
     name: SCRUM BOOT CAMP THE BOOK
     link: https://www.amazon.co.jp/dp/4798163686/
